@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Hooola</p>
+      <p>Hola, soy Viri</p>
     </>
   );
 }
